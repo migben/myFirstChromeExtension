@@ -1,9 +1,10 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "Ben's Leads tracker",
+    "author": "Miguel Ben",
+    "name": "Tabs Pinner",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "icon.png"
+        "default_icon": "/images/push-pin.png"
     }
 }
