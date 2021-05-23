@@ -1,4 +1,4 @@
-# myFirstChromeExtension
+# Tabs Pinner
 
 A simple extension to pins all the tab links and persistently save them for later
 
