@@ -59,4 +59,4 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) Li
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Scrimba](https://www.scrimba.com) & It's community.
+* [Scrimba](https://www.scrimba.com) & It's community. ❤️
